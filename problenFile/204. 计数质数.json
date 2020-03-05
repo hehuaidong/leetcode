@@ -1,0 +1,1 @@
+{"title": "204. 计数质数", "level": "简单", "description": "<p>统计所有小于非负整数&nbsp;<em>n&nbsp;</em>的质数的数量。</p>\n\n<p><strong>示例:</strong></p>\n\n<pre><strong>输入:</strong> 10\n<strong>输出:</strong> 4\n<strong>解释:</strong> 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。\n</pre>\n", "code": "class Solution {\npublic:\n    int countPrimes(int n) {\n            }\n};"}

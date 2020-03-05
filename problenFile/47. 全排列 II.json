@@ -1,0 +1,1 @@
+{"title": "47. 全排列 II", "level": "中等", "description": "<p>给定一个可包含重复数字的序列，返回所有不重复的全排列。</p>\n\n<p><strong>示例:</strong></p>\n\n<pre><strong>输入:</strong> [1,1,2]\n<strong>输出:</strong>\n[\n  [1,1,2],\n  [1,2,1],\n  [2,1,1]\n]</pre>\n", "code": "class Solution {\npublic:\n    vector<vector<int>> permuteUnique(vector<int>& nums) {\n            }\n};"}
